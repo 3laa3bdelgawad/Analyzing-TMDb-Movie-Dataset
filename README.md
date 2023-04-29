@@ -23,9 +23,18 @@ The following tools and technologies were used to perform the analysis:
 ## Results
 The analysis produced the following results:
 
-- The actors with the most popularity in movies are [insert actor names here].
-- The top movies based on different factors are [insert movie names and factors here].
-- The movie with the highest revenue is [insert movie name here] with revenue of [insert revenue amount here].
-- The movie with the lowest revenue is [insert movie name here] with revenue of [insert revenue amount here].
+- The actors with the most popularity in movies are [1-Matt Damon
+2-Mark Wahlberg
+3-Samuel L.jackson
+4-Brad pitt
+5-Anne Hathaway ].
+-  the top 5 movies based on their adjusted revenue [
+1-Jurassic World
+2-Mad Max: fury Road
+3-interstellar
+4-Guardians of the Galaxy
+5-insurgent ]
+- The movie with the highest revenue is Avatar  with revenue of 2.78151e+09
+- The movie with the lowest revenue is The Warrior's Way with revenue of 43  
 ## Conclusion
 The analysis of The Movie Database (TMDb) movie dataset provides valuable insights into the popularity and revenue of movies. The findings reveal which actors are the most popular in movies, the top movies based on different factors, and which movies had the most and least revenue. These insights can be useful for filmmakers, producers, and movie studios to make informed decisions about casting, production, and marketing.
