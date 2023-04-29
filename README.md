@@ -23,8 +23,9 @@ The following tools and technologies were used to perform the analysis:
 ## Results
 The analysis produced the following results:
 
-The actors with the most popularity in movies are [insert actor names here].
-The top movies based on different factors are [insert movie names and factors here].
-The movie with the highest revenue is [insert movie name here] with revenue of [insert revenue amount here]. The movie with the lowest revenue is [insert movie name here] with revenue of [insert revenue amount here].
+- The actors with the most popularity in movies are [insert actor names here].
+- The top movies based on different factors are [insert movie names and factors here].
+- The movie with the highest revenue is [insert movie name here] with revenue of [insert revenue amount here].
+- The movie with the lowest revenue is [insert movie name here] with revenue of [insert revenue amount here].
 ## Conclusion
 The analysis of The Movie Database (TMDb) movie dataset provides valuable insights into the popularity and revenue of movies. The findings reveal which actors are the most popular in movies, the top movies based on different factors, and which movies had the most and least revenue. These insights can be useful for filmmakers, producers, and movie studios to make informed decisions about casting, production, and marketing.
