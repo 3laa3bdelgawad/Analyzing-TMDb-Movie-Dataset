@@ -1,4 +1,4 @@
-# Movie Data Analysis
+# TMDb Movie Dataset Analysis
 This project analyzes a dataset of 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue.
 
 ## Overview
